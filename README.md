@@ -1,5 +1,5 @@
 # Weather Condition Prediction
-### A machine learning classification model to predict weather conditions based on historical data.
+### Predict weather conditions based on historical data using 3 machine learning classification models seperately and comparing them.
 
 --- 
 
